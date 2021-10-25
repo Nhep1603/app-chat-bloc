@@ -1,5 +1,4 @@
 # chat_app_bloc
+![Watch the video demo](chat_app.mp4)
 
-A new Flutter project.
-
-![card_3d_animation_bloc](chat_app.mp4)
+(data-flow.jpg)
